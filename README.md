@@ -1,4 +1,4 @@
-# Router ACL Component - Mendo Framework
+# Router with ACL support
 
 This component allows to add [ACL](https://github.com/mendoframework/acl) support to your routes, or in other words, to control access to protected routes. It is a [Decorator](https://en.wikipedia.org/wiki/Decorator_pattern) over a `Mendo\Router\RequestMatcherInterface` instance.
 
